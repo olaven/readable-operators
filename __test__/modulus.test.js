@@ -1,4 +1,4 @@
-const operators = require('../operators');
+const operators = require("../readable-operators"); 
 
 test('3 modulus 6 to equal 0', () => 
 {
