@@ -2,7 +2,7 @@
   "name": "readable-operators",
   "version": "1.0.0",
   "description": " JS operators as functions. May be passed as parameters and improves readability.",
-  "main": "readable-operators.js ",
+  "main": "readable-operators.js",
   "scripts": {
     "test": "jest"
   },
