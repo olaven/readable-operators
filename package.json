@@ -1,0 +1,15 @@
+{
+  "name": "readable-operators",
+  "version": "1.0.0",
+  "description": " JS operators as functions. May be passed as parameters and improves readability.",
+  "main": "operators.js ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/olaven/readable-operators.git",
+  "author": "olaven <olavsundfoer@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.0.1"
+  }
+}
