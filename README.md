@@ -1,8 +1,16 @@
 # readable-operators
 JS operators as functions. May be passed as parameters and improves readability.
 
+## Installing 
+Yarn: 
+```bash yarn add readable-operators```
+NPM: 
+```bash npm i readable-operators```
 
-## Passing as parameter 
+
+## Ezamples 
+
+### Passing as parameter 
 
 ```javascript
     const ro = require("readable-operator"); 
@@ -16,7 +24,7 @@ JS operators as functions. May be passed as parameters and improves readability.
     console.log(applyOperator(ro.subtract, 10, 5)) // 5
 ```
 
-## Making things readable 
+### Making things readable 
 
 ```javascript
     const ro = require("readable-operator"); 
