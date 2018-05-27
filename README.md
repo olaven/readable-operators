@@ -3,9 +3,9 @@ JS operators as functions. May be passed as parameters and improves readability.
 
 ## Installing 
 Yarn: 
-```bash yarn add readable-operators```
+* ```bash yarn add readable-operators```
 NPM: 
-```bash npm i readable-operators```
+* ```bash npm i readable-operators```
 
 
 ## Ezamples 
