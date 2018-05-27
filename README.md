@@ -9,7 +9,7 @@ NPM:
 * ```bash npm i readable-operators```
 
 
-## Ezamples 
+## Examples 
 
 ### Passing as parameter 
 
