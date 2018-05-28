@@ -41,4 +41,4 @@ NPM:
 ```
 
 ## Running tests
-```bash yarn test```
+```yarn test```
