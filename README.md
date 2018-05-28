@@ -39,3 +39,6 @@ NPM:
         ro.subtract(score, 1); 
     }
 ```
+
+## Running tests
+```bash yarn test```
